@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oleg Makarenkov | Welcome to Ivan&#39;s page! </title>
+    <link>http://gudoshnikov.com/authors/oleg-makarenkov/</link>
+      <atom:link href="http://gudoshnikov.com/authors/oleg-makarenkov/index.xml" rel="self" type="application/rss+xml" />
+    <description>Oleg Makarenkov</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://gudoshnikov.com/img/icon-192.png</url>
+      <title>Oleg Makarenkov</title>
+      <link>http://gudoshnikov.com/authors/oleg-makarenkov/</link>
+    </image>
+    
+    <item>
+      <title>Stabilization of the response of cyclically loaded lattice spring models with plasticity</title>
+      <link>http://gudoshnikov.com/publication/gm-1/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://gudoshnikov.com/publication/gm-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One-period stability analysis of polygonal sweeping processes with application to an elastoplastic model</title>
+      <link>http://gudoshnikov.com/publication/gkmv/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://gudoshnikov.com/publication/gkmv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structurally stable families of periodic solutions in sweeping processes of networks of elastoplastic springs</title>
+      <link>http://gudoshnikov.com/publication/gm-2/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://gudoshnikov.com/publication/gm-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global asymptotic stability of nonconvex sweeping processes</title>
+      <link>http://gudoshnikov.com/publication/amg2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://gudoshnikov.com/publication/amg2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

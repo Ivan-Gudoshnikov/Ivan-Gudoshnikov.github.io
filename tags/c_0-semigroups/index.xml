@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>$C_0$-semigroups | Welcome to Ivan&#39;s page! </title>
+    <link>http://gudoshnikov.com/tags/c_0-semigroups/</link>
+      <atom:link href="http://gudoshnikov.com/tags/c_0-semigroups/index.xml" rel="self" type="application/rss+xml" />
+    <description>$C_0$-semigroups</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 04 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://gudoshnikov.com/img/icon-192.png</url>
+      <title>$C_0$-semigroups</title>
+      <link>http://gudoshnikov.com/tags/c_0-semigroups/</link>
+    </image>
+    
+    <item>
+      <title>On the stability of perturbed semigroups in partially ordered Banach spaces</title>
+      <link>http://gudoshnikov.com/publication/kg2018/</link>
+      <pubDate>Sat, 04 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>http://gudoshnikov.com/publication/kg2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exponential stability of positive semigroups in Banach spaces</title>
+      <link>http://gudoshnikov.com/publication/gkn2015/</link>
+      <pubDate>Tue, 15 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://gudoshnikov.com/publication/gkn2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>$C_0$-semigroups</title>
+      <link>http://gudoshnikov.com/project/semigroups/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://gudoshnikov.com/project/semigroups/</guid>
+      <description>&lt;p&gt;In the setting of partially ordered banach spaces me and &lt;a href=http://www.mathnet.ru/eng/person23183&gt;Prof. Mikhail Igorevich Kamenskii&lt;/a&gt; have proven necessary and sufficient conditions for a $C_0$-semigroup of the form $e^{(-\Gamma+M)t}$ to be stable. The generator $-\Gamma+M$ is a (possibly)  unbounded linear operator $-\Gamma$ perturbed by a bounded, positive (in the sense of the partial order structure) linear operator $M$. Our main requrements are that the unperturbed semigroup $e^{-\Gamma t}$ is stable and the product $\Gamma^{-1}M$ is contracting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

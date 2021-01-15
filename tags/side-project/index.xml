@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>side project | Welcome to Ivan&#39;s page! </title>
+    <link>http://gudoshnikov.com/tags/side-project/</link>
+      <atom:link href="http://gudoshnikov.com/tags/side-project/index.xml" rel="self" type="application/rss+xml" />
+    <description>side project</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Apr 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://gudoshnikov.com/img/icon-192.png</url>
+      <title>side project</title>
+      <link>http://gudoshnikov.com/tags/side-project/</link>
+    </image>
+    
+    <item>
+      <title>Passive biped model</title>
+      <link>http://gudoshnikov.com/project/passive_biped/</link>
+      <pubDate>Tue, 27 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>http://gudoshnikov.com/project/passive_biped/</guid>
+      <description>&lt;p&gt;blah&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

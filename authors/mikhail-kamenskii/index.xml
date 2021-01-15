@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mikhail Kamenskii | Welcome to Ivan&#39;s page! </title>
+    <link>http://gudoshnikov.com/authors/mikhail-kamenskii/</link>
+      <atom:link href="http://gudoshnikov.com/authors/mikhail-kamenskii/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mikhail Kamenskii</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://gudoshnikov.com/img/icon-192.png</url>
+      <title>Mikhail Kamenskii</title>
+      <link>http://gudoshnikov.com/authors/mikhail-kamenskii/</link>
+    </image>
+    
+    <item>
+      <title>One-period stability analysis of polygonal sweeping processes with application to an elastoplastic model</title>
+      <link>http://gudoshnikov.com/publication/gkmv/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://gudoshnikov.com/publication/gkmv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the stability of perturbed semigroups in partially ordered Banach spaces</title>
+      <link>http://gudoshnikov.com/publication/kg2018/</link>
+      <pubDate>Sat, 04 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>http://gudoshnikov.com/publication/kg2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exponential stability of positive semigroups in Banach spaces</title>
+      <link>http://gudoshnikov.com/publication/gkn2015/</link>
+      <pubDate>Tue, 15 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://gudoshnikov.com/publication/gkn2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Welcome to Ivan&#39;s page! </title>
+    <link>http://gudoshnikov.com/authors/</link>
+      <atom:link href="http://gudoshnikov.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://gudoshnikov.com/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>http://gudoshnikov.com/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>http://gudoshnikov.com/authors/admin/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://gudoshnikov.com/authors/admin/</guid>
+      <description>&lt;p&gt;Hi! Welcome to my page! I currently do research in Mathematics and Mechanics with &lt;a href=&#34;http://www.utdallas.edu/~makarenkov/&#34; title=&#34;Oleg&#34;&gt;Prof. Oleg Makarenkov&lt;/a&gt; from the University of Texas at Dallas and &lt;a href=&#34;https://sites.google.com/view/complexmateriallab/people?authuser=0&#34; title=&#34;Yang&#34;&gt;Prof. Yang Jiao&lt;/a&gt; from Arizona State University. I have recently (May 2020) graduated from UT Dallas with a PhD in Mathematics, worked as a postdoc at ASU, and currently is transitioning to a new position in Europe, which is about to start in March 2021.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Oleg Makarenkov</title>
+      <link>http://gudoshnikov.com/authors/oleg-makarenkov/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://gudoshnikov.com/authors/oleg-makarenkov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mikhail Kamenskii</title>
+      <link>http://gudoshnikov.com/authors/mikhail-kamenskii/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://gudoshnikov.com/authors/mikhail-kamenskii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natalia Voskovskaia</title>
+      <link>http://gudoshnikov.com/authors/natalia-voskovskaia/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://gudoshnikov.com/authors/natalia-voskovskaia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lakmi Niwanthi Wadippuli Achchige</title>
+      <link>http://gudoshnikov.com/authors/lakmi-niwanthi-wadippuli-achchige/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://gudoshnikov.com/authors/lakmi-niwanthi-wadippuli-achchige/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paolo Nistri</title>
+      <link>http://gudoshnikov.com/authors/paolo-nistri/</link>
+      <pubDate>Tue, 15 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://gudoshnikov.com/authors/paolo-nistri/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

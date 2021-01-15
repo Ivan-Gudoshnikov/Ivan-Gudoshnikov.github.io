@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Welcome to Ivan&#39;s page! </title>
+    <link>http://gudoshnikov.com/post/</link>
+      <atom:link href="http://gudoshnikov.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>http://gudoshnikov.com/img/icon-192.png</url>
+      <title>Posts</title>
+      <link>http://gudoshnikov.com/post/</link>
+    </image>
+    
+  </channel>
+</rss>
