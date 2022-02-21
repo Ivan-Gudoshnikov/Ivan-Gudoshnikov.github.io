@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dmitry Rachinskiy | Welcome to Ivan&#39;s page! </title>
+    <link>http://localhost:1313/authors/dmitry-rachinskiy/</link>
+      <atom:link href="http://localhost:1313/authors/dmitry-rachinskiy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dmitry Rachinskiy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/img/icon-192.png</url>
+      <title>Dmitry Rachinskiy</title>
+      <link>http://localhost:1313/authors/dmitry-rachinskiy/</link>
+    </image>
+    
+    <item>
+      <title>Finite-time stability of polyhedral sweeping processes with application to elastoplastic systems</title>
+      <link>http://localhost:1313/publication/gmr-finite-time-stability-1/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gmr-finite-time-stability-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

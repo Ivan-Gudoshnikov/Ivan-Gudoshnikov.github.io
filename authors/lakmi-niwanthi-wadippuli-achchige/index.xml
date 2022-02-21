@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lakmi Niwanthi Wadippuli Achchige | Welcome to Ivan&#39;s page! </title>
-    <link>http://gudoshnikov.com/authors/lakmi-niwanthi-wadippuli-achchige/</link>
-      <atom:link href="http://gudoshnikov.com/authors/lakmi-niwanthi-wadippuli-achchige/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/lakmi-niwanthi-wadippuli-achchige/</link>
+      <atom:link href="http://localhost:1313/authors/lakmi-niwanthi-wadippuli-achchige/index.xml" rel="self" type="application/rss+xml" />
     <description>Lakmi Niwanthi Wadippuli Achchige</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://gudoshnikov.com/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Lakmi Niwanthi Wadippuli Achchige</title>
-      <link>http://gudoshnikov.com/authors/lakmi-niwanthi-wadippuli-achchige/</link>
+      <link>http://localhost:1313/authors/lakmi-niwanthi-wadippuli-achchige/</link>
     </image>
     
     <item>
       <title>Global asymptotic stability of nonconvex sweeping processes</title>
-      <link>http://gudoshnikov.com/publication/amg2020/</link>
+      <link>http://localhost:1313/publication/amg2020/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://gudoshnikov.com/publication/amg2020/</guid>
+      <guid>http://localhost:1313/publication/amg2020/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Natalia Voskovskaia | Welcome to Ivan&#39;s page! </title>
-    <link>http://gudoshnikov.com/authors/natalia-voskovskaia/</link>
-      <atom:link href="http://gudoshnikov.com/authors/natalia-voskovskaia/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/natalia-voskovskaia/</link>
+      <atom:link href="http://localhost:1313/authors/natalia-voskovskaia/index.xml" rel="self" type="application/rss+xml" />
     <description>Natalia Voskovskaia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://gudoshnikov.com/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Natalia Voskovskaia</title>
-      <link>http://gudoshnikov.com/authors/natalia-voskovskaia/</link>
+      <link>http://localhost:1313/authors/natalia-voskovskaia/</link>
     </image>
     
     <item>
       <title>One-period stability analysis of polygonal sweeping processes with application to an elastoplastic model</title>
-      <link>http://gudoshnikov.com/publication/gkmv/</link>
+      <link>http://localhost:1313/publication/gkmv/</link>
       <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://gudoshnikov.com/publication/gkmv/</guid>
+      <guid>http://localhost:1313/publication/gkmv/</guid>
       <description></description>
     </item>
     

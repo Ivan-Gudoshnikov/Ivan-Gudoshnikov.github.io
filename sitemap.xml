@@ -3,185 +3,195 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://gudoshnikov.com/authors/admin/</loc>
-    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/authors/admin/</loc>
+    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/publication_types/2/</loc>
-    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication_types/2/</loc>
+    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/authors/</loc>
-    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/authors/</loc>
+    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/tags/convex-polytopes/</loc>
-    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/convex-polytopes/</loc>
+    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/tags/elastoplasticity/</loc>
-    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/authors/dmitry-rachinskiy/</loc>
+    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/tags/moreaus-sweeping-process/</loc>
-    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/elastoplasticity/</loc>
+    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/tags/networks/</loc>
-    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication/gmr-finite-time-stability-1/</loc>
+    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/authors/oleg-makarenkov/</loc>
-    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/moreaus-sweeping-process/</loc>
+    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/publication_types/</loc>
-    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/networks/</loc>
+    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/publication/</loc>
-    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/authors/oleg-makarenkov/</loc>
+    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/tags/stability/</loc>
-    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication_types/</loc>
+    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/publication/gm-1/</loc>
-    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication/</loc>
+    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/tags/</loc>
-    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/stability/</loc>
+    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/</loc>
-    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/authors/mikhail-kamenskii/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/publication/gm-1/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/authors/mikhail-kamenskii/</loc>
     <lastmod>2020-04-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/authors/natalia-voskovskaia/</loc>
+    <loc>http://localhost:1313/authors/natalia-voskovskaia/</loc>
     <lastmod>2020-04-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/publication/gkmv/</loc>
+    <loc>http://localhost:1313/publication/gkmv/</loc>
     <lastmod>2020-04-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/publication/gm-2/</loc>
+    <loc>http://localhost:1313/publication/gm-2/</loc>
     <lastmod>2020-03-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/publication/amg2020/</loc>
+    <loc>http://localhost:1313/publication/amg2020/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/authors/lakmi-niwanthi-wadippuli-achchige/</loc>
+    <loc>http://localhost:1313/authors/lakmi-niwanthi-wadippuli-achchige/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/tags/prox-regular-sets/</loc>
+    <loc>http://localhost:1313/tags/prox-regular-sets/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/tags/c_0-semigroups/</loc>
+    <loc>http://localhost:1313/tags/c_0-semigroups/</loc>
     <lastmod>2018-08-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/publication/kg2018/</loc>
+    <loc>http://localhost:1313/publication/kg2018/</loc>
     <lastmod>2018-08-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/tags/partially-ordered-spaces/</loc>
+    <loc>http://localhost:1313/tags/partially-ordered-spaces/</loc>
     <lastmod>2018-08-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/tags/main-project/</loc>
+    <loc>http://localhost:1313/tags/main-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/project/sweeping_process/</loc>
+    <loc>http://localhost:1313/project/sweeping_process/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/project/</loc>
+    <loc>http://localhost:1313/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/publication/gkn2015/</loc>
+    <loc>http://localhost:1313/publication/gkn2015/</loc>
     <lastmod>2015-09-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/authors/paolo-nistri/</loc>
+    <loc>http://localhost:1313/authors/paolo-nistri/</loc>
     <lastmod>2015-09-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/project/semigroups/</loc>
+    <loc>http://localhost:1313/project/semigroups/</loc>
     <lastmod>2014-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/project/passive_biped/</loc>
+    <loc>http://localhost:1313/project/passive_biped/</loc>
     <lastmod>2010-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/tags/side-project/</loc>
+    <loc>http://localhost:1313/tags/side-project/</loc>
     <lastmod>2010-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/tags/simulation/</loc>
+    <loc>http://localhost:1313/tags/simulation/</loc>
     <lastmod>2010-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/tags/switched-system/</loc>
+    <loc>http://localhost:1313/tags/switched-system/</loc>
     <lastmod>2010-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
   </url>
   
   <url>
-    <loc>http://gudoshnikov.com/talk/</loc>
+    <loc>http://localhost:1313/talk/</loc>
   </url>
   
 </urlset>

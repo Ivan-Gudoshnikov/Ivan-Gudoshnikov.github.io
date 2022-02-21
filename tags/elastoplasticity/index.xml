@@ -2,45 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Elastoplasticity | Welcome to Ivan&#39;s page! </title>
-    <link>http://gudoshnikov.com/tags/elastoplasticity/</link>
-      <atom:link href="http://gudoshnikov.com/tags/elastoplasticity/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/elastoplasticity/</link>
+      <atom:link href="http://localhost:1313/tags/elastoplasticity/index.xml" rel="self" type="application/rss+xml" />
     <description>Elastoplasticity</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://gudoshnikov.com/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Elastoplasticity</title>
-      <link>http://gudoshnikov.com/tags/elastoplasticity/</link>
+      <link>http://localhost:1313/tags/elastoplasticity/</link>
     </image>
     
     <item>
+      <title>Finite-time stability of polyhedral sweeping processes with application to elastoplastic systems</title>
+      <link>http://localhost:1313/publication/gmr-finite-time-stability-1/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gmr-finite-time-stability-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Stabilization of the response of cyclically loaded lattice spring models with plasticity</title>
-      <link>http://gudoshnikov.com/publication/gm-1/</link>
-      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://gudoshnikov.com/publication/gm-1/</guid>
+      <link>http://localhost:1313/publication/gm-1/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gm-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One-period stability analysis of polygonal sweeping processes with application to an elastoplastic model</title>
-      <link>http://gudoshnikov.com/publication/gkmv/</link>
+      <link>http://localhost:1313/publication/gkmv/</link>
       <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://gudoshnikov.com/publication/gkmv/</guid>
+      <guid>http://localhost:1313/publication/gkmv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Structurally stable families of periodic solutions in sweeping processes of networks of elastoplastic springs</title>
-      <link>http://gudoshnikov.com/publication/gm-2/</link>
+      <link>http://localhost:1313/publication/gm-2/</link>
       <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://gudoshnikov.com/publication/gm-2/</guid>
+      <guid>http://localhost:1313/publication/gm-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Moreau&#39;s Sweeping Process</title>
-      <link>http://gudoshnikov.com/project/sweeping_process/</link>
+      <link>http://localhost:1313/project/sweeping_process/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://gudoshnikov.com/project/sweeping_process/</guid>
+      <guid>http://localhost:1313/project/sweeping_process/</guid>
       <description>&lt;p&gt;In late 1960&amp;rsquo;s French mathematician J.-J. Moreau introduced a method of solving nonsmooth evolution problems with applications in elastoplasticity. He used differential inclusions of the type $$-x&amp;rsquo; \in N_{C(t)}(x),$$ which he called the sweeping process. Following his method, I am studying properties of solutions, which appear in such processes. I also work on the application of sweeping process to networks of elastoplastic springs. For example, the following animation shows a network of 5 springs (right side) and the corresponding sweeping process (left side).&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;../../img/sweeping_animation.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;

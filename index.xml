@@ -2,61 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to Ivan&#39;s page! </title>
-    <link>http://gudoshnikov.com/</link>
-      <atom:link href="http://gudoshnikov.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Welcome to Ivan&#39;s page! </description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://gudoshnikov.com/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Welcome to Ivan&#39;s page! </title>
-      <link>http://gudoshnikov.com/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
+      <title>Finite-time stability of polyhedral sweeping processes with application to elastoplastic systems</title>
+      <link>http://localhost:1313/publication/gmr-finite-time-stability-1/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gmr-finite-time-stability-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Stabilization of the response of cyclically loaded lattice spring models with plasticity</title>
-      <link>http://gudoshnikov.com/publication/gm-1/</link>
-      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://gudoshnikov.com/publication/gm-1/</guid>
+      <link>http://localhost:1313/publication/gm-1/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gm-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One-period stability analysis of polygonal sweeping processes with application to an elastoplastic model</title>
-      <link>http://gudoshnikov.com/publication/gkmv/</link>
+      <link>http://localhost:1313/publication/gkmv/</link>
       <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://gudoshnikov.com/publication/gkmv/</guid>
+      <guid>http://localhost:1313/publication/gkmv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Structurally stable families of periodic solutions in sweeping processes of networks of elastoplastic springs</title>
-      <link>http://gudoshnikov.com/publication/gm-2/</link>
+      <link>http://localhost:1313/publication/gm-2/</link>
       <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://gudoshnikov.com/publication/gm-2/</guid>
+      <guid>http://localhost:1313/publication/gm-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Global asymptotic stability of nonconvex sweeping processes</title>
-      <link>http://gudoshnikov.com/publication/amg2020/</link>
+      <link>http://localhost:1313/publication/amg2020/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://gudoshnikov.com/publication/amg2020/</guid>
+      <guid>http://localhost:1313/publication/amg2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the stability of perturbed semigroups in partially ordered Banach spaces</title>
-      <link>http://gudoshnikov.com/publication/kg2018/</link>
+      <link>http://localhost:1313/publication/kg2018/</link>
       <pubDate>Sat, 04 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>http://gudoshnikov.com/publication/kg2018/</guid>
+      <guid>http://localhost:1313/publication/kg2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Moreau&#39;s Sweeping Process</title>
-      <link>http://gudoshnikov.com/project/sweeping_process/</link>
+      <link>http://localhost:1313/project/sweeping_process/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://gudoshnikov.com/project/sweeping_process/</guid>
+      <guid>http://localhost:1313/project/sweeping_process/</guid>
       <description>&lt;p&gt;In late 1960&amp;rsquo;s French mathematician J.-J. Moreau introduced a method of solving nonsmooth evolution problems with applications in elastoplasticity. He used differential inclusions of the type $$-x&amp;rsquo; \in N_{C(t)}(x),$$ which he called the sweeping process. Following his method, I am studying properties of solutions, which appear in such processes. I also work on the application of sweeping process to networks of elastoplastic springs. For example, the following animation shows a network of 5 springs (right side) and the corresponding sweeping process (left side).&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;../../img/sweeping_animation.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -65,26 +73,26 @@
     
     <item>
       <title>Exponential stability of positive semigroups in Banach spaces</title>
-      <link>http://gudoshnikov.com/publication/gkn2015/</link>
+      <link>http://localhost:1313/publication/gkn2015/</link>
       <pubDate>Tue, 15 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://gudoshnikov.com/publication/gkn2015/</guid>
+      <guid>http://localhost:1313/publication/gkn2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>$C_0$-semigroups</title>
-      <link>http://gudoshnikov.com/project/semigroups/</link>
+      <link>http://localhost:1313/project/semigroups/</link>
       <pubDate>Sun, 27 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>http://gudoshnikov.com/project/semigroups/</guid>
+      <guid>http://localhost:1313/project/semigroups/</guid>
       <description>&lt;p&gt;In the setting of partially ordered banach spaces me and &lt;a href=http://www.mathnet.ru/eng/person23183&gt;Prof. Mikhail Igorevich Kamenskii&lt;/a&gt; have proven necessary and sufficient conditions for a $C_0$-semigroup of the form $e^{(-\Gamma+M)t}$ to be stable. The generator $-\Gamma+M$ is a (possibly)  unbounded linear operator $-\Gamma$ perturbed by a bounded, positive (in the sense of the partial order structure) linear operator $M$. Our main requrements are that the unperturbed semigroup $e^{-\Gamma t}$ is stable and the product $\Gamma^{-1}M$ is contracting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Passive biped model</title>
-      <link>http://gudoshnikov.com/project/passive_biped/</link>
+      <link>http://localhost:1313/project/passive_biped/</link>
       <pubDate>Tue, 27 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>http://gudoshnikov.com/project/passive_biped/</guid>
+      <guid>http://localhost:1313/project/passive_biped/</guid>
       <description>&lt;p&gt;blah&lt;/p&gt;
 </description>
     </item>

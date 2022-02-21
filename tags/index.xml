@@ -2,109 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Welcome to Ivan&#39;s page! </title>
-    <link>http://gudoshnikov.com/tags/</link>
-      <atom:link href="http://gudoshnikov.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/</link>
+      <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://gudoshnikov.com/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Tags</title>
-      <link>http://gudoshnikov.com/tags/</link>
+      <link>http://localhost:1313/tags/</link>
     </image>
     
     <item>
       <title>Convex polytopes</title>
-      <link>http://gudoshnikov.com/tags/convex-polytopes/</link>
-      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://gudoshnikov.com/tags/convex-polytopes/</guid>
+      <link>http://localhost:1313/tags/convex-polytopes/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/convex-polytopes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Elastoplasticity</title>
-      <link>http://gudoshnikov.com/tags/elastoplasticity/</link>
-      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://gudoshnikov.com/tags/elastoplasticity/</guid>
+      <link>http://localhost:1313/tags/elastoplasticity/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/elastoplasticity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Moreau&#39;s Sweeping Process</title>
-      <link>http://gudoshnikov.com/tags/moreaus-sweeping-process/</link>
-      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://gudoshnikov.com/tags/moreaus-sweeping-process/</guid>
+      <link>http://localhost:1313/tags/moreaus-sweeping-process/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/moreaus-sweeping-process/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Networks</title>
-      <link>http://gudoshnikov.com/tags/networks/</link>
-      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://gudoshnikov.com/tags/networks/</guid>
+      <link>http://localhost:1313/tags/networks/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stability</title>
-      <link>http://gudoshnikov.com/tags/stability/</link>
-      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://gudoshnikov.com/tags/stability/</guid>
+      <link>http://localhost:1313/tags/stability/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/stability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prox-regular sets</title>
-      <link>http://gudoshnikov.com/tags/prox-regular-sets/</link>
+      <link>http://localhost:1313/tags/prox-regular-sets/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://gudoshnikov.com/tags/prox-regular-sets/</guid>
+      <guid>http://localhost:1313/tags/prox-regular-sets/</guid>
       <description></description>
     </item>
     
     <item>
       <title>$C_0$-semigroups</title>
-      <link>http://gudoshnikov.com/tags/c_0-semigroups/</link>
+      <link>http://localhost:1313/tags/c_0-semigroups/</link>
       <pubDate>Sat, 04 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>http://gudoshnikov.com/tags/c_0-semigroups/</guid>
+      <guid>http://localhost:1313/tags/c_0-semigroups/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Partially Ordered Spaces</title>
-      <link>http://gudoshnikov.com/tags/partially-ordered-spaces/</link>
+      <link>http://localhost:1313/tags/partially-ordered-spaces/</link>
       <pubDate>Sat, 04 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>http://gudoshnikov.com/tags/partially-ordered-spaces/</guid>
+      <guid>http://localhost:1313/tags/partially-ordered-spaces/</guid>
       <description></description>
     </item>
     
     <item>
       <title>main project</title>
-      <link>http://gudoshnikov.com/tags/main-project/</link>
+      <link>http://localhost:1313/tags/main-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://gudoshnikov.com/tags/main-project/</guid>
+      <guid>http://localhost:1313/tags/main-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>side project</title>
-      <link>http://gudoshnikov.com/tags/side-project/</link>
+      <link>http://localhost:1313/tags/side-project/</link>
       <pubDate>Tue, 27 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>http://gudoshnikov.com/tags/side-project/</guid>
+      <guid>http://localhost:1313/tags/side-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simulation</title>
-      <link>http://gudoshnikov.com/tags/simulation/</link>
+      <link>http://localhost:1313/tags/simulation/</link>
       <pubDate>Tue, 27 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>http://gudoshnikov.com/tags/simulation/</guid>
+      <guid>http://localhost:1313/tags/simulation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Switched system</title>
-      <link>http://gudoshnikov.com/tags/switched-system/</link>
+      <link>http://localhost:1313/tags/switched-system/</link>
       <pubDate>Tue, 27 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>http://gudoshnikov.com/tags/switched-system/</guid>
+      <guid>http://localhost:1313/tags/switched-system/</guid>
       <description></description>
     </item>
     

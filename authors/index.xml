@@ -2,62 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Welcome to Ivan&#39;s page! </title>
-    <link>http://gudoshnikov.com/authors/</link>
-      <atom:link href="http://gudoshnikov.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/</link>
+      <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://gudoshnikov.com/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Authors</title>
-      <link>http://gudoshnikov.com/authors/</link>
+      <link>http://localhost:1313/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>http://gudoshnikov.com/authors/admin/</link>
-      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://gudoshnikov.com/authors/admin/</guid>
-      <description>&lt;p&gt;Hi! Welcome to my page! I currently do research in Mathematics and Mechanics with &lt;a href=&#34;http://www.utdallas.edu/~makarenkov/&#34; title=&#34;Oleg&#34;&gt;Prof. Oleg Makarenkov&lt;/a&gt; from the University of Texas at Dallas and &lt;a href=&#34;https://sites.google.com/view/complexmateriallab/people?authuser=0&#34; title=&#34;Yang&#34;&gt;Prof. Yang Jiao&lt;/a&gt; from Arizona State University. I have recently (May 2020) graduated from UT Dallas with a PhD in Mathematics, worked as a postdoc at ASU, and currently is transitioning to a new position in Europe, which is about to start in March 2021.&lt;/p&gt;
+      <link>http://localhost:1313/authors/admin/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/admin/</guid>
+      <description>&lt;p&gt;Hi! Welcome to my page! I am a postdoctoral researcher at the &lt;a href=&#34;http://www.math.cas.cz/&#34; title=&#34;IM&#34;&gt;Institute of Mathematics of the Czech Academy of Scieneces&lt;/a&gt; working on non-smooth dynamical systems with &lt;a href=&#34;http://www.math.cas.cz/homepage/main_page.php?id_membre=41&#34; title=&#34;Pavel&#34;&gt;Prof. Pavel Krejčí&lt;/a&gt; and &lt;a href=&#34;http://www.math.cas.cz/fichier/membres/cv/cv_monteiro_gisellentunes_20170731110259_85.pdf&#34; title=&#34;Giselle&#34;&gt;Dr. Giselle Antunes Monteiro&lt;/a&gt;. In 2020 I graduated from the University of Texas at Dallas with a PhD in Mathematics (my supervisor was &lt;a href=&#34;http://www.utdallas.edu/~makarenkov/&#34; title=&#34;Oleg&#34;&gt;Prof. Oleg Makarenkov&lt;/a&gt;) and held a postdoc at Arizona State University  where I collabrated with &lt;a href=&#34;https://sites.google.com/view/complexmateriallab/people?authuser=0&#34; title=&#34;Yang&#34;&gt;Prof. Yang Jiao&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>Dmitry Rachinskiy</title>
+      <link>http://localhost:1313/authors/dmitry-rachinskiy/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/dmitry-rachinskiy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Oleg Makarenkov</title>
-      <link>http://gudoshnikov.com/authors/oleg-makarenkov/</link>
-      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://gudoshnikov.com/authors/oleg-makarenkov/</guid>
+      <link>http://localhost:1313/authors/oleg-makarenkov/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/oleg-makarenkov/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mikhail Kamenskii</title>
-      <link>http://gudoshnikov.com/authors/mikhail-kamenskii/</link>
+      <link>http://localhost:1313/authors/mikhail-kamenskii/</link>
       <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://gudoshnikov.com/authors/mikhail-kamenskii/</guid>
+      <guid>http://localhost:1313/authors/mikhail-kamenskii/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Natalia Voskovskaia</title>
-      <link>http://gudoshnikov.com/authors/natalia-voskovskaia/</link>
+      <link>http://localhost:1313/authors/natalia-voskovskaia/</link>
       <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://gudoshnikov.com/authors/natalia-voskovskaia/</guid>
+      <guid>http://localhost:1313/authors/natalia-voskovskaia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lakmi Niwanthi Wadippuli Achchige</title>
-      <link>http://gudoshnikov.com/authors/lakmi-niwanthi-wadippuli-achchige/</link>
+      <link>http://localhost:1313/authors/lakmi-niwanthi-wadippuli-achchige/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://gudoshnikov.com/authors/lakmi-niwanthi-wadippuli-achchige/</guid>
+      <guid>http://localhost:1313/authors/lakmi-niwanthi-wadippuli-achchige/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Paolo Nistri</title>
-      <link>http://gudoshnikov.com/authors/paolo-nistri/</link>
+      <link>http://localhost:1313/authors/paolo-nistri/</link>
       <pubDate>Tue, 15 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://gudoshnikov.com/authors/paolo-nistri/</guid>
+      <guid>http://localhost:1313/authors/paolo-nistri/</guid>
       <description></description>
     </item>
     
