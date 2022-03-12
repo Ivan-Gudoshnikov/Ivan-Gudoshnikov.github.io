@@ -42,8 +42,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/sweeping_process/</guid>
       <description>&lt;p&gt;In late 1960&amp;rsquo;s French mathematician J.-J. Moreau introduced a method of solving nonsmooth evolution problems with applications in elastoplasticity. He used differential inclusions of the type $$-x&amp;rsquo; \in N_{C(t)}(x),$$ which he called the sweeping process. Following his method, I am studying properties of solutions, which appear in such processes. I also work on the application of sweeping process to networks of elastoplastic springs. For example, the following animation shows a network of 5 springs (right side) and the corresponding sweeping process (left side).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;../../img/sweeping_animation.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../img/sweeping_animation.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
