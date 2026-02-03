@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yang Jiao | Welcome to Ivan&#39;s page! </title>
+    <link>http://localhost:1313/authors/yang-jiao/</link>
+      <atom:link href="http://localhost:1313/authors/yang-jiao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yang Jiao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/img/icon-192.png</url>
+      <title>Yang Jiao</title>
+      <link>http://localhost:1313/authors/yang-jiao/</link>
+    </image>
+    
+    <item>
+      <title>Sweeping process approach to stress analysis in elastoplastic lattice spring models with applications to network materials</title>
+      <link>http://localhost:1313/publication/2025-phys-rev-e/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-phys-rev-e/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

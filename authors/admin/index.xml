@@ -5,7 +5,7 @@
     <link>http://localhost:1313/authors/admin/</link>
       <atom:link href="http://localhost:1313/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Welcome to Ivan&#39;s page! </description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 29 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/img/icon-192.png</url>
       <title>Welcome to Ivan&#39;s page! </title>
@@ -13,58 +13,98 @@
     </image>
     
     <item>
+      <title>Regularity lost: The fundamental limitations and constraint qualifications in the problems of elastoplasticity</title>
+      <link>http://localhost:1313/publication/2026-discrete-continuous-dyn-syst/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2026-discrete-continuous-dyn-syst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sweeping process approach to stress analysis in elastoplastic lattice spring models with applications to network materials</title>
+      <link>http://localhost:1313/publication/2025-phys-rev-e/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-phys-rev-e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elastoplasticity with softening as a state-dependent sweeping process: non-uniqueness of solutions and emergence of shear bands in lattices of springs</title>
+      <link>http://localhost:1313/publication/2026-math-eng/</link>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2026-math-eng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stress solution of static linear elasticity with mixed boundary conditions via adjoint linear operators</title>
+      <link>http://localhost:1313/publication/2025-j-math-anal-appl/</link>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-j-math-anal-appl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formation of a nontrivial finite-time stable attractor in a class of polyhedral sweeping processes with periodic input</title>
+      <link>http://localhost:1313/publication/2023-esaim-cocv/</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023-esaim-cocv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Finite-time stability of polyhedral sweeping processes with application to elastoplastic systems</title>
-      <link>http://localhost:1313/publication/gmr-finite-time-stability-1/</link>
+      <link>http://localhost:1313/publication/2022-siam-j-control-optim/</link>
       <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gmr-finite-time-stability-1/</guid>
+      <guid>http://localhost:1313/publication/2022-siam-j-control-optim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stabilization of the response of cyclically loaded lattice spring models with plasticity</title>
-      <link>http://localhost:1313/publication/gm-1/</link>
+      <link>http://localhost:1313/publication/2021-esaim-cocv/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gm-1/</guid>
+      <guid>http://localhost:1313/publication/2021-esaim-cocv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One-period stability analysis of polygonal sweeping processes with application to an elastoplastic model</title>
-      <link>http://localhost:1313/publication/gkmv/</link>
+      <link>http://localhost:1313/publication/2020-math-model-nat-phenom/</link>
       <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gkmv/</guid>
+      <guid>http://localhost:1313/publication/2020-math-model-nat-phenom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Structurally stable families of periodic solutions in sweeping processes of networks of elastoplastic springs</title>
-      <link>http://localhost:1313/publication/gm-2/</link>
+      <link>http://localhost:1313/publication/2020-physica-d/</link>
       <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gm-2/</guid>
+      <guid>http://localhost:1313/publication/2020-physica-d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Global asymptotic stability of nonconvex sweeping processes</title>
-      <link>http://localhost:1313/publication/amg2020/</link>
+      <link>http://localhost:1313/publication/2020-discrete-continuous-dyn-syst-ser-b/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/amg2020/</guid>
+      <guid>http://localhost:1313/publication/2020-discrete-continuous-dyn-syst-ser-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the stability of perturbed semigroups in partially ordered Banach spaces</title>
-      <link>http://localhost:1313/publication/kg2018/</link>
+      <link>http://localhost:1313/publication/2018-j-math-sci/</link>
       <pubDate>Sat, 04 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/kg2018/</guid>
+      <guid>http://localhost:1313/publication/2018-j-math-sci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exponential stability of positive semigroups in Banach spaces</title>
-      <link>http://localhost:1313/publication/gkn2015/</link>
-      <pubDate>Tue, 15 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gkn2015/</guid>
+      <link>http://localhost:1313/publication/2015-j-math-anal-appl/</link>
+      <pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2015-j-math-anal-appl/</guid>
       <description></description>
     </item>
     

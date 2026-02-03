@@ -4,81 +4,156 @@
   
   <url>
     <loc>http://localhost:1313/authors/admin/</loc>
-    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/publication_types/2/</loc>
-    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/authors/</loc>
-    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/convex-polytopes/</loc>
-    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/authors/dmitry-rachinskiy/</loc>
-    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/tags/elastoplasticity/</loc>
-    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/publication/gmr-finite-time-stability-1/</loc>
-    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/tags/moreaus-sweeping-process/</loc>
-    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/networks/</loc>
-    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/authors/oleg-makarenkov/</loc>
-    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/publication_types/</loc>
-    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/publication/</loc>
-    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/stability/</loc>
-    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication/2026-discrete-continuous-dyn-syst/</loc>
+    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/convex-polytopes/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/authors/duyu-chen/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/networks/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/authors/oleg-makarenkov/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/publication/2025-phys-rev-e/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/authors/yang-jiao/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/publication_types/3/</loc>
+    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/ductile-fracture/</loc>
+    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/publication/2026-math-eng/</loc>
+    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/softening/</loc>
+    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/state-dependent-sweeping-process/</loc>
+    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/adjoint-operators/</loc>
+    <lastmod>2024-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/beltrami-decomposition/</loc>
+    <lastmod>2024-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/linear-elasticity/</loc>
+    <lastmod>2024-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/authors/michal-krizek/</loc>
+    <lastmod>2024-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/publication/2025-j-math-anal-appl/</loc>
+    <lastmod>2024-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/authors/dmitry-rachinskiy/</loc>
+    <lastmod>2023-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/publication/2023-esaim-cocv/</loc>
+    <lastmod>2023-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/stability/</loc>
+    <lastmod>2023-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/publication/2022-siam-j-control-optim/</loc>
     <lastmod>2022-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publication/gm-1/</loc>
+    <loc>http://localhost:1313/publication/2021-esaim-cocv/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -93,17 +168,17 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/publication/gkmv/</loc>
+    <loc>http://localhost:1313/publication/2020-math-model-nat-phenom/</loc>
     <lastmod>2020-04-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publication/gm-2/</loc>
+    <loc>http://localhost:1313/publication/2020-physica-d/</loc>
     <lastmod>2020-03-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publication/amg2020/</loc>
+    <loc>http://localhost:1313/publication/2020-discrete-continuous-dyn-syst-ser-b/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -123,7 +198,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/publication/kg2018/</loc>
+    <loc>http://localhost:1313/publication/2018-j-math-sci/</loc>
     <lastmod>2018-08-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -148,13 +223,13 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/publication/gkn2015/</loc>
-    <lastmod>2015-09-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication/2015-j-math-anal-appl/</loc>
+    <lastmod>2015-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/authors/paolo-nistri/</loc>
-    <lastmod>2015-09-15T00:00:00+00:00</lastmod>
+    <lastmod>2015-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>

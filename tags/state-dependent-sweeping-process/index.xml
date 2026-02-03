@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>State-dependent sweeping process | Welcome to Ivan&#39;s page! </title>
+    <link>http://localhost:1313/tags/state-dependent-sweeping-process/</link>
+      <atom:link href="http://localhost:1313/tags/state-dependent-sweeping-process/index.xml" rel="self" type="application/rss+xml" />
+    <description>State-dependent sweeping process</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 04 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/img/icon-192.png</url>
+      <title>State-dependent sweeping process</title>
+      <link>http://localhost:1313/tags/state-dependent-sweeping-process/</link>
+    </image>
+    
+    <item>
+      <title>Elastoplasticity with softening as a state-dependent sweeping process: non-uniqueness of solutions and emergence of shear bands in lattices of springs</title>
+      <link>http://localhost:1313/publication/2026-math-eng/</link>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2026-math-eng/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

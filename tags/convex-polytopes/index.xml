@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/convex-polytopes/</link>
       <atom:link href="http://localhost:1313/tags/convex-polytopes/index.xml" rel="self" type="application/rss+xml" />
     <description>Convex polytopes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/img/icon-192.png</url>
       <title>Convex polytopes</title>
@@ -13,26 +13,42 @@
     </image>
     
     <item>
+      <title>Sweeping process approach to stress analysis in elastoplastic lattice spring models with applications to network materials</title>
+      <link>http://localhost:1313/publication/2025-phys-rev-e/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-phys-rev-e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formation of a nontrivial finite-time stable attractor in a class of polyhedral sweeping processes with periodic input</title>
+      <link>http://localhost:1313/publication/2023-esaim-cocv/</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023-esaim-cocv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Finite-time stability of polyhedral sweeping processes with application to elastoplastic systems</title>
-      <link>http://localhost:1313/publication/gmr-finite-time-stability-1/</link>
+      <link>http://localhost:1313/publication/2022-siam-j-control-optim/</link>
       <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gmr-finite-time-stability-1/</guid>
+      <guid>http://localhost:1313/publication/2022-siam-j-control-optim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stabilization of the response of cyclically loaded lattice spring models with plasticity</title>
-      <link>http://localhost:1313/publication/gm-1/</link>
+      <link>http://localhost:1313/publication/2021-esaim-cocv/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gm-1/</guid>
+      <guid>http://localhost:1313/publication/2021-esaim-cocv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One-period stability analysis of polygonal sweeping processes with application to an elastoplastic model</title>
-      <link>http://localhost:1313/publication/gkmv/</link>
+      <link>http://localhost:1313/publication/2020-math-model-nat-phenom/</link>
       <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gkmv/</guid>
+      <guid>http://localhost:1313/publication/2020-math-model-nat-phenom/</guid>
       <description></description>
     </item>
     
