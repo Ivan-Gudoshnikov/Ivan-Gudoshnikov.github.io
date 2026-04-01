@@ -5,12 +5,20 @@
     <link>http://localhost:1313/tags/moreaus-sweeping-process/</link>
       <atom:link href="http://localhost:1313/tags/moreaus-sweeping-process/index.xml" rel="self" type="application/rss+xml" />
     <description>Moreau&#39;s Sweeping Process</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 29 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 25 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/img/icon-192.png</url>
       <title>Moreau&#39;s Sweeping Process</title>
       <link>http://localhost:1313/tags/moreaus-sweeping-process/</link>
     </image>
+    
+    <item>
+      <title>Elastoplasticity with softening as a state-dependent sweeping process: non-uniqueness of solutions and emergence of shear bands in lattices of springs</title>
+      <link>http://localhost:1313/publication/2026-math-eng/</link>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2026-math-eng/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Regularity lost: The fundamental limitations and constraint qualifications in the problems of elastoplasticity</title>
@@ -25,14 +33,6 @@
       <link>http://localhost:1313/publication/2025-phys-rev-e/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/2025-phys-rev-e/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Elastoplasticity with softening as a state-dependent sweeping process: non-uniqueness of solutions and emergence of shear bands in lattices of springs</title>
-      <link>http://localhost:1313/publication/2026-math-eng/</link>
-      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2026-math-eng/</guid>
       <description></description>
     </item>
     
